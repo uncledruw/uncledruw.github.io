@@ -1,6 +1,0 @@
-gem install jekyll bundler
-bundle init
-gem install "jekyll" -v "3.9.3"
-
-解决
-gem install GEM_NAME_HERE
