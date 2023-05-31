@@ -52,7 +52,7 @@ Let’s add your first file. Create `index.html` in **root** with the following 
 </html>
 ```
 
-## Build[**Permalink**](https://jekyllrb.com/docs/step-by-step/01-setup/#build "Permalink")
+## Build
 
 Since Jekyll is a static site generator, it has to build the site before we can view it. Run either of the following commands to build your site:
 
