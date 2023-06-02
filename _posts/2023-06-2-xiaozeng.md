@@ -1,6 +1,5 @@
-layout	author
-post
-ted
-66666666
-
-66666
+---
+layout: post
+author: ted
+---
+等风来，，不如追风去
